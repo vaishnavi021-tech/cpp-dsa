@@ -1,6 +1,6 @@
 // Problem : Majority Element
 // Approach : Sort the array
-// Time Complexity : O(nlogn)
+// Time Complexity : O(n log n)
 // Space Complexity : O(1)
 // Description : Sorting groups same elements together, making it easy to count frequency 
 
