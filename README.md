@@ -2,6 +2,7 @@
 This repository contains my Data Structures and Algorithms (DSA) practice implemented in C++, including problems on arrays and other topics. It will be updated as I continue learning.
 ## 📁 Topics Covered
 - Arrays
+- Strings
 ## 🚀 What You'll Find
 - Well-structured problems solutions
 - Clean and readable C++ code
