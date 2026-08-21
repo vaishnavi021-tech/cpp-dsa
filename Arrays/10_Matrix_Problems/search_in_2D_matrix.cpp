@@ -1,4 +1,4 @@
-// Problem : Search in 2D matrix-I (Sorted Matrix)
+// Problem : Search in 2D matrix (Sorted Matrix)
 // Approach : Search in 2D matrix first, find the row and then search in that row
 // Time Complexity : O(log n)
 // Space Complexity : O(1)
